@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kippah</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="choose_nickname"><b>אנא בחר\\י כינוי :)</b></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kippah_grid_view">KippahGridViewActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
+
